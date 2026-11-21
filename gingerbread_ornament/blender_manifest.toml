@@ -1,0 +1,21 @@
+schema_version = "1.0.0"
+
+id = "gingerbread_ornament"
+version = "0.5.0"
+name = "Gingerbread Ornament"
+tagline = "Turn line-art into a multi-colour gingerbread ornament 3MF"
+maintainer = "Craig Midwinter"
+type = "add-on"
+
+blender_version_min = "5.1.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = [
+  "2026 Craig Midwinter",
+  "Bambu Lab (bundled printer/filament settings, AGPL-3.0)",
+]
+
+[permissions]
+files = "Read line-art images and write 3MF files"
+
+[build]
+paths_exclude_pattern = ["__pycache__/", "*.pyc", "/.git/", ".DS_Store", "._*"]
