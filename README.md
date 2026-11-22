@@ -124,12 +124,6 @@ The add-on is free software under the **GNU General Public License v3.0 or later
 
 That means you may use it for anything (including selling the ornaments you print), study and change the code, and share copies, modified or not, as long as you pass them on under the same licence.
 
-Buying it here pays for the convenience of a ready-to-install package, the sample files and guide, and support. Thank you: it keeps the project going.
+A ready-to-install package, the sample files and the guide are also on Gumroad (pay what you want); paying there supports the project.
 
 The built-in Bambu Lab printer settings come from Bambu Studio's profiles (AGPL-3.0). See `CREDITS.md`.
-
-## Support
-
-Questions or problems: **[SUPPORT CONTACT TO BE ADDED]**
-
-Please include your Blender version, your Bambu Studio version, and if possible the drawing you used.
